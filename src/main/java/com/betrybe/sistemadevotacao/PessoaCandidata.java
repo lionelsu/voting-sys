@@ -27,8 +27,8 @@ public class PessoaCandidata extends Pessoa {
     return votos;
   }
 
-  public void setNumero(int votos) {
-    this.votos = votos;
+  public void setNumero(int numero) {
+    this.numero = numero;
   }
 
   public void receberVoto() {
